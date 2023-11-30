@@ -5,7 +5,6 @@ Aayush bansal
 10210212
 3C08
 
-
 This project is a machine learning model for recognizing hate speech in text data. It is designed to help combat the spread of harmful and derogatory language on social media and other online platforms.
 
 ## Table of Contents
